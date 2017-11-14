@@ -4,8 +4,9 @@ Source Code File: Bing Map.py
 
 # Input:
 
-41.8757944, -87.621137
-41.8826013, -87.6245621
+- 41.8757944, -87.621137
+
+- 41.8826013, -87.6245621
 
 # Packages required to run the code:
 
